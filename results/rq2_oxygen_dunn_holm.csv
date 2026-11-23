@@ -1,0 +1,11 @@
+group1,group2,p_value,p_holm,reject_at_0.05
+A1_headwaters,A2_upper_course,0.11746188404266017,0.704771304255961,False
+A1_headwaters,A3_middle_course,0.1455237710838665,0.7276188554193325,False
+A1_headwaters,A4_lower_course,0.0007946159817566659,0.00794615981756666,True
+A1_headwaters,A5_mouth,0.25253794919337924,1.0,False
+A2_upper_course,A3_middle_course,0.9124168084049993,1.0,False
+A2_upper_course,A4_lower_course,0.07359113265503886,0.515137928585272,False
+A2_upper_course,A5_mouth,0.6735289337621575,1.0,False
+A3_middle_course,A4_lower_course,0.057546373259082115,0.4603709860726569,False
+A3_middle_course,A5_mouth,0.7555580542008207,1.0,False
+A4_lower_course,A5_mouth,0.027073475953160543,0.24366128357844488,False
